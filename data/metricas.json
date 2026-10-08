@@ -1,0 +1,41 @@
+{
+ "empresas_icp_universo": 407,
+ "empresas_com_decisor": 179,
+ "decisores": 278,
+ "por_segmento": {
+  "Alimentos": 4,
+  "Automotivo/Transporte": 7,
+  "Bebidas": 2,
+  "Confecção": 8,
+  "Eletrônicos": 7,
+  "Elétrico": 6,
+  "Gráfica": 3,
+  "Madeira": 2,
+  "Metal (fabricação)": 30,
+  "Metalurgia": 2,
+  "Minerais não metálicos": 5,
+  "Máquinas e equipamentos": 53,
+  "Móveis": 1,
+  "Outras manufaturas": 19,
+  "Papel/Celulose": 1,
+  "Petroquímica": 1,
+  "Plástico/Borracha": 16,
+  "Química": 5,
+  "Têxtil": 7
+ },
+ "por_porte": {
+  "51-200": 53,
+  "10-50": 111,
+  "201-500": 15
+ },
+ "por_senioridade": {
+  "director": 155,
+  "founder": 22,
+  "c_suite": 50,
+  "vp": 3,
+  "partner": 20,
+  "manager": 1,
+  "owner": 26,
+  "head": 1
+ }
+}
